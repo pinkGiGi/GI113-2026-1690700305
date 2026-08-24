@@ -31,7 +31,7 @@ namespace Lab02
             Console.WriteLine($"HP: {currentHp} / {maxHp}");
             Console.WriteLine($"Attack Power: {attackPower}");
             Console.WriteLine($"Crit Multiplier: {critMultiplier}");
-            Console.WriteLine($"Is Boos: {true}");
+            Console.WriteLine($"Is Boss: {true}");
 
             Console.WriteLine();
 
