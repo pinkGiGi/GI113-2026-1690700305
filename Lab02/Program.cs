@@ -73,31 +73,31 @@ namespace Lab02
 
             Console.WriteLine("===== KNIGHT STATUS: INITIAL =====");
             Console.WriteLine($"Name: {char1Name}");
-            Console.WriteLine($" | Class: {char1Class}");
-            Console.WriteLine($" | HP: {char1Hp}");
-            Console.WriteLine($" | DEF: {char1Defense}");
-            Console.WriteLine($" | Alive: {char1IsAlive}");
+            Console.WriteLine($"Class: {char1Class}");
+            Console.WriteLine($"HP: {char1Hp}");
+            Console.WriteLine($"DEF: {char1Defense}");
+            Console.WriteLine($"Alive: {char1IsAlive}");
 
             Console.WriteLine("===== MAGE STATUS: INITIAL =====");
             Console.WriteLine($"Name: {char2Name}");
-            Console.WriteLine($" | Class: {char2Class}");
-            Console.WriteLine($" | HP: {char2Hp}");
-            Console.WriteLine($" | MP Regen: {char2ManaRegen}");
-            Console.WriteLine($" | Alive: {char2IsAlive}");
+            Console.WriteLine($"Class: {char2Class}");
+            Console.WriteLine($"HP: {char2Hp}");
+            Console.WriteLine($"MP Regen: {char2ManaRegen}");
+            Console.WriteLine($"Alive: {char2IsAlive}");
 
             Console.WriteLine("===== ARCHER STATUS: INITIAL =====");
             Console.WriteLine($"Name: {char3Name}");
-            Console.WriteLine($" | Class: {char3Class}");
-            Console.WriteLine($" | HP: {char3Hp}");
-            Console.WriteLine($" | Speed: {char3Speed}");
-            Console.WriteLine($" | Alive: {char3IsAlive}");
+            Console.WriteLine($"Class: {char3Class}");
+            Console.WriteLine($"HP: {char3Hp}");
+            Console.WriteLine($"Speed: {char3Speed}");
+            Console.WriteLine($"Alive: {char3IsAlive}");
 
             Console.WriteLine("===== DRAGON STATUS: INITIAL =====");
             Console.WriteLine($"Name: {char4Name}");
-            Console.WriteLine($" | Class: {char4Class}");
-            Console.WriteLine($" | HP: {char4Hp}");
-            Console.WriteLine($" | Crit Rate: {char4CritRate}");
-            Console.WriteLine($" | Alive: {char4IsAlive}");
+            Console.WriteLine($"Class: {char4Class}");
+            Console.WriteLine($"HP: {char4Hp}");
+            Console.WriteLine($"Crit Rate: {char4CritRate}");
+            Console.WriteLine($"Alive: {char4IsAlive}");
         }
     }
 }
